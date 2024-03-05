@@ -14,7 +14,7 @@ public class App {
     }
 
     public String getMessage() {
-        return "breakTest";
-        //return MESSAGE;
+        //return "breakTest";
+        return MESSAGE;
     }
 }
